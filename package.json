@@ -1,5 +1,5 @@
 {
-  "home": "http://MorenoJean13.github.io/search-bar-react", 
+  "home": "http://MorenoJean13.github.io/search-bar-react",
   "name": "search-bar-react",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,8 @@
     "axios": "^0.19.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "typescript": "^3.9.7"
   },
   "scripts": {
     "predeploy": "npm run build",
